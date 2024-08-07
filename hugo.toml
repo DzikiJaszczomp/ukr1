@@ -1,0 +1,136 @@
+baseURL = "https://ukraina.netlify.app"
+languageCode = "en-us"
+title = "Alpha Church"
+theme = "alpha-church"
+
+
+rssLimit = 5
+paginate = 4
+
+enableEmoji = true
+
+# Enter your tracking code to enable Google Analytics
+[services]
+  [services.googleAnalytics]
+    ID = "G-72B5GM9QBQ"
+
+enableInlineShortcodes = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+  tag = "tags"
+  preacher = "preachers"
+  series = "series"
+
+#This theme can generate a multi-level menu.
+#Use weight= to specify the order of menu items, and parent= to create a submenu item.
+[menu]
+
+
+
+    
+[[menu.main]]
+    name = "Smaki Costa Tropical"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Rum"
+    parent = "Flavours of the Costa Tropical"
+    url = "/Rum"
+    weight = 1 
+
+  
+
+
+  [[menu.main]]
+    name = "Tropical Fruits"
+    parent = "Flavours of the Costa Tropical"
+    url = "/tropicalfruits"
+    weight = 1 
+
+
+  [[menu.main]]
+    name = "Wine"
+    parent = "Flavours of the Costa Tropical"
+    url = "/wino"
+    weight = 1   
+
+  [[menu.main]]
+    name = "Czy jest tu drogo?"
+    url = "/ceny"
+    weight = 1
+
+   
+
+# Paramaters for the whole site
+[params]
+  title = "Ciepła Hiszpania"
+  subtitle = "Costa Tropical, Alpuhara, Granada, Sierra Nevada na tydzień, miesiąc, na stałe"
+  author.name = "Aleksander Janczarek"
+  keywords = ["Travel concierge", "Salobreña", "Motril"]
+  languageCode = "en" # For accessibility this needs to be set. You can find all language codes at https://www.w3schools.com/tags/ref_language_codes.asp
+  
+  instant_page = true
+
+  customCSS = ["example.css"]
+
+  [params.favicon]
+    sml = "/example16.jpg"
+    med = "/example16.jpg"
+    #lge = "example16.jpg"
+
+  [params.banner]
+    image = "img/banner.jpg"
+
+#  [params.style]
+#    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
+
+  
+
+  [params.map]
+    service = "osm" #"osm" for OpenStreetMaps, "google" for Google Maps, or "mapbox" for Mapbox, see SETUP.md
+    # For Open Street Map widgets
+    latitude = "36.74644"
+    longitude = "-3.58682"
+    zoom = "10"
+    # If you want to use google maps you'll need an API Key from Google https://developers.google.com/maps/documentation/embed/get-api-key
+    #service = "google"
+    #api_key = "XXXXXXXX"
+    #language = "fr" #Optional
+    #region = "FR" #Optional
+
+  
+
+
+    [params.footer]
+      copyright = ["[CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)",
+                   "Design: [HTML5 UP](//html5up.net/alpha)",
+                   "[Hugo Port](//gohugo.io) by [Daniel Saunders](//github.com/funkydan2)"
+                  ]
+
+    [[params.links]]
+      service = "Twitter"
+      icon = "fa-twitter"
+      icon_pack = "fab"
+      link = "//twitter.com/"
+
+    [[params.links]]
+      service = "Facebook"
+      icon = "fa-facebook"
+      icon_pack = "fab"
+      link = "https://www.facebook.com/profile.php?id=61555252727786"
+
+    [[params.links]]
+      service = "Podcast"
+      icon = "fa-podcast"
+      icon_pack = "fas"
+      link = "/sermons/index.xml"
+
+    [[params.links]]
+      service = "Full RSS Feed"
+      icon = "fa-rss"
+      icon_pack = "fas"
+      link = "/index.xml"
