@@ -2,7 +2,7 @@
 [banner]
   [[banner.button]]
       url = "/contact"
-      text = "Witam"
+      text = "Zapraszam"
       type = "primary"
 
   [[banner.button]]
@@ -58,8 +58,8 @@
 
   [[feature_images.tile]]
     image = "img/caleta.jpg"
-    title = "Costa Tropical"
-    text = "Najcieplejsza Hiszpania"
+    title = "Smaki Lwowa"
+    text = "Smaki Lwowa"
     url = "/senderismo"
     button_text = "Więcej"
 

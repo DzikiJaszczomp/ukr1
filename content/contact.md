@@ -2,86 +2,106 @@
 title: "Welcome"
 subtitle: ""
 date: 2023-12-02T13:49:50+10:00
-images: ["img/panorama.jpg"]
+images: ["img/prospekt2.JPG"]
 tags: ""
 draft: false
 ---
-Costa Tropical. Najcieplejsza Hiszpania
+# Wyjazdy do Ukrainy w czasie wojny
 
-Hiszpania, Andaluzja, Malaga, plaże, słoneczne wybrzeże
+Jechać? Nie jechać? Które miejsca w Ukrainie są bezpieczne? Czy podróż jest etyczna?
 
-Najcieplejsze wybrzeże kontynentalnej Hiszpanii
+**Czy jechać turystycznie do Ukrainy w czasie wojny?**
 
-Krajobrazy zapierające dech. Szmaragdowe morze, historyczne miejscowości wciśnięte między
-wybrzeże, a potężne góry Sierra Nevada (ponad 3 tys. m. npm), tropikalne owoce na drzewach. Wreszcie
-historyczne miasteczka Alpuhary z charakterystycznymi białymi domkami na skałach, mauretańskimi
-zamkami i pozostałościami akweduktów.
+Dla wielu podróż turystyczna do Ukrainy w czasie wojny wydaje się niedorzeczna. Nie dla wszystkich
+jednak, w 2023 r. Ukrainę odwiedziło ponad 200 tys. Polaków, jeszcze więcej było Rumunów i
+Mołdawian. Łącznie przybyło tego kraju w 2023 około 2,5 mln turystów zagranicznych, o prawie pół
+miliona więcej niż rok wcześniej.
 
-Mowa tu o Costa Tropical, czyli tropikalnym wybrzeżu, które zaczyna się 70 km od lotniska w Maladze,
-ale leży już w prowincji Granada. Sama nazwa brzmi niezwykle obiecująco. Panuje tu tropikalny klimat z
-temperaturami od 15 do 32 stopni. Lato trwa tu przez ponad pół roku, a o każdej porze jest ciepło. Jest to
-jedyne miejsce w Europie, w którym uprawia się owoce tropikalne, na drzewach rosną między innymi
-awokado, mango, papaje, liczi, cherimoye i inne owoce.
+Wielu z nas, zwłaszcza bywalców i sympatyków Ukrainy tęskni do tych wyjazdów, zaraz jak tylko wojna
+się skończy... Ale wojna się nie kończy. Jechać więc, czy nie? Czy to jest bezpieczne? Czy to jest etyczne?
+Odpowiedź na te pytania nie jest jednoznaczna. Sam jestem bywalcem Ukrainy, byłem we Lwowie
+stosunkowo niedawno, gdy wyszła moja książka: „Smaki Lwowa”. Pojechałem tam podziękować i
+wręczyć egzemplarze publikacji ludziom, którzy pomogli mi napisać tę książkę. Lwów czasów wojny jest
+niemal taki sam, jak przed jej wybuchem, wszystko działa, powstały nawet nowe knajpy. Niemal, bo czuć
+w powietrzu tę wojnę, choć nie bezpośrednio.
 
-Region jest mniej znany niż sąsiednie Costa del Sol, mniejszy, znacznie bardziej kameralny, ceniony
-przez koneserów. Costa Tropical jest ono popularnym miejscem na spędzenie tu zimy, wielu kupuje domy
-i mieszkania, które są zdecydowanie tańsze w sąsiedniej Costa del Sol. Wybrzeże wyróżnia się tym, że
-nawet latem nie jest zatłoczone, a wśród mieszkańców spory odsetek stanowią przybysze głównie z
-Wielkiej Brytanii, Niemiec, Skandynawii, Holandii i Polski. Polska społeczność liczy kilkadziesiąt osób.
-Turyści i expaci cenią sobie kameralność tutejszych ośrodków, jak Salobreña, La Herradura, inni
-wybierają większy, tętniący turystycznym życiem Almuñecar. Znajdziemy tu zarówno plaże z doskonałą
-infrastrukturą (bezpłatne toalety, prysznice), jak też miejsca kameralne, niezwykle urokliwe z ukrytymi
-zatoczkami, surowymi klifami.
+Był to jednak wyjazd, który można określić jako służbowy, uzasadniony, a turystyka? Jestem
+przeciwnikiem turystyki wojennej, tego zjawiska nazywanego też: „dark tourism”. Chodzi tu o podróże
+do miejsc wyzwolonych od rosjan (pisownie nieprzypadkowa). Są biura, które w tym się specjalizują. Za
+przemawia jedynie fakt, ze znaczącą część przychodów wspomniane biura ofiarują wojsku. Oczywiście
+mają mnóstwo argumentów, dlaczego warto, żeby świat zobaczył, etc. Dla miejscowych ludzi, ofiar tej
+wojny, taka turystyka polegająca na podglądaniu ich nieszczęść jest trudna do zaakceptowania.
+Pozostajemy jednak przy turystyce.
 
-W Sierra Nevada (ok. 80 km) działa największy na południu Europy ośrodek narciarski – ponad 100 km
-tras.
+Według danych rządowej agencji VisitUkraine zagraniczni turyści najchętniej wybierali jako miejsce
+wizyty Kijów, Odessę – tu chyba głównie Mołdawianie oraz Lwów, chętnie wybierany przez Polaków.
 
-Region jest atrakcyjny przez cały rok, tutejszą specjalnością – oprócz plażowania – są piesze wędrówki,
-wyprawy rowerowe, wycieczki, turystyka kulinarna i winiarska.
+***Czy podróże do Ukrainy są bezpieczne?***
 
-Jeśli chciałbyś przyjechać na wypoczynek, zwiedzanie, relaks. Zapraszam na moją stronę. Znajdziesz tu
-inspiracje, praktyczne informacje, wskazówki oraz oferty wycieczek.
+Ukraińcy sami mówią, że nie ma miejsc w pełni bezpiecznych. Jak sami widzimy, Kijów jest celem
+ataków rosjan. Zagrożenie, jakie tam spotykamy, ma charakter terrorystyczny, a nie typowo wojenny (jaki
+znamy z opowieści o II wojnie), bo taki też jest sposób działania ruskich bandytów. Patrząc na statystyki,
+zagrożenie nie jest tak wielkie, jak spektakularne, ale jest.
 
-Jeśli potrzebujesz wsparcia w przygotowaniu podróży i pobytu, skontaktuj się ze mną. Pomogą wybrać
-odpowiednie miejsce noclegowe, zarezerwować samochód na atrakcyjnych warunkach, czy kupić bilety
-na autobus.
+Polskie ministerstwo spraw zagranicznych nie rekomenduje wyjazdu do Ukrainy. Jego brytyjski
+odpowiednik uwzględnia pewne niuanse. Ogólnie rzecz biorąc, nie zachęca, ale wskazuje najbardziej
+bezpieczne miasta w Ukrainie, czyli Lwów, Łuck, Równe i Żytomierz. Wielka Brytania odradza
+zdecydowanie wyjazdy w rejony, znajdujące się w odległości 50 km od granicy z Białorusią lub przy
+granicy z Rosją.
 
-Jeśli chcesz, aby jedynym Twoim zmartwieniem było wsiąść do samolotu, skontaktuje się, zajmę się
-wszystkim.
+Z kolei według ukraińskich statystyk najbardziej bezpiecznymi w czasie wojny obwodami są: zakarpacki,
+lwowski, wołyński, rówieński, iwano-frankiwski i żytomierski.
 
-Moje wycieczki (samochodowe) organizowane są w grupach do 4 osób, do miejsc które dobrze znam i
-potrafię pokazać ciekawie. Są to m.in. wycieczki do Granady, w góry Sierra Nevada, do Alpuhary, na
-degustację wina i rumu, a także na Gibraltar i do Tangeru w Maroko (rejs szybkim promem) oraz do
-Bolonii nad oceanem.
+Czy są miejsca, o których możemy powiedzieć, że są całkowicie bezpieczne? Moim zdaniem w pełni
+bezpieczna jest podróż między innymi w Karpaty, na Huculszczyznę i Zakarpacie. Rosjanom raczej nie
+przyjdzie do głowy bombardowanie gór, Worochty, czy Truskawca.
 
-Jeśli chcesz spędzić tu dłuższy czas
-również zapraszam na stronę. Pomogę we wszystkim co potrzebne, o nic nie będziesz się martwić.
+**Turystyka w Ukrainie**
 
-Jeśli chcesz kupić dom lub mieszkanie
+2,5 mln turystów zagranicznych w zeszłym roku (przed wybuchem wojny było to 14 mln), z czego milion
+Mołdawian, trudno mówić o masowej turystyce zagranicznej. Masowa turystyka jednak w Ukrainie
+istnieje, rozwija się w zachodniej części kraju, głównie we Lwowie i regionie lwowskim, Karpatach,
+Zakarpaciu, Z tym że jest to turystyka wewnętrzna. Ludzie przyjeżdżają ze wschodnich i centralnych
+części kraju, aby odpocząć, także od wojny, zagrożenia. Nie da się bez końca funkcjonować w ciągłym
+stresie. Turystyczne statystyki z 2023 r. są podobne do tych z 2021 r.
+Ten turystyczny ruch widać we Lwowie, gdzie hotele i lokale są pełne. Truskawiec funkcjonuje pełną
+parą, podobnie karpackie ośrodki, w tym ośrodek narciarski Bukowel. Jak komentuje przedstawicielka
+Visit Ukraine: w czasie wojny turystyka krajowa ratuje ukraińską gospodarkę. Dla wielu osób, które
+przeżywają długotrwały stres wyjazd w góry czy podróż do Lwowa są wybawieniem. Wszystkie hotele i
+kawiarnie w Ukrainie mają schrony na wypadek ataku rakietowego. Dysponują też generatorami prądu na
+wypadek przerw w jego dostawach.
 
-Zapraszam najpierw na rekonesans, np. tygodniowy. Zobaczysz miejsca, zapoznasz się z ofertą lokali do
-sprzedaży i od razu się im przyjrzysz. Gdy już zdecydujesz się na kupno, także otrzymasz pomoc.
-Uwaga! Ściśle trzymamy się zasady, że lokale kupujemy za pośrednictwem licencjonowany agencji
-nieruchomosci lub bezpośrednio, ale po konsultacji z prawnikiem. Żadnych dzikich pośredników,
-załatwiaczy i nieautoryzowanych zaliczek.
+Taką turystykę chciałbym Państwu zaproponować, najbezpieczniejszą, jak się tylko da, wygodną, dobrze
+zorganizowaną, bardzo kameralną. Turystykę etyczną, taką która wspiera Ukraińców, w tym wypadku
+sam przyjazd tam jest ważniejszy niż pozostawione pieniądze. Ludzie, mimo wojny, chcą żyć
+najnormalniej, jak tylko się da.
 
-O mnie
+Mam propozycję dla ludzi ciekawych świata, przyjaciół Ukrainy i tych, co chcieliby nimi zostać,
+wielbicieli Lwowa, kulinarnej przygody. Proponują wyprawy w miejsca, które znam doskonale: Lwów,
+Kijów, Huculszczyzna (Karpaty). Odessę też znam i bardzo lubię, ale chyba jeszcze nie jest pora. Miasto
+ma strategiczne położenie.
 
-Nazywam się Piotr Janczarek. Od kwietnia 2022 r. mieszkam wraz z rodziną w Andaluzji, obecnie w
-Salobreña. Jestem redaktorem, pracowałem jako dziennikarz i wydawca. Jestem autorem książek: Smaki
-Lwowa, Wojna w Ukrainie. Kobiece historie, Morderstwo w małym mieście. Interesują się między
-innymi podróżami, kulinariami. Ważnym członkiem naszej rodziny jest pies Escobar, który przybył z
-nami z Polski.
+Moja filozofia podróżowania to pełna swoboda, bez szczegółowych grafików, ale z dobrą organizacją i
+dobrym standardem zakwaterowania. Ważnym aspektem podróżowania są dla mnie kulinaria oraz
+kontakty z gospodarzami.
 
-Kontakt:
+Szczegółowe informacje znajdują się w kolejnym rozdziale. Zapraszam do zapoznania się z całą stroną,
+jak również z moją książką Smaki Lwowa.
 
-allpress.piotr.janczarek@gmail.com
+Nazywam się Piotr Janczarek. Przez wiele lat pracowałem jako dziennikarz, specjalizując się w tematyce
+gospodarczej, podróżniczej i poradniczej. Byłem twórcą i przez 10 lat prowadziłem portal poradniczy
+natemat.com.pl (do czasu kradzieży domeny przez spółkę Glob 360). Stworzyłem i przez 4 lata
+prowadziłem też dwujęzyczny miesięcznik Polska i Ukraina, drukowany w Kijowie. W 2022 r. ukazała
+się książka Wojna w Ukrainie. Kobiece historie, której byłem współtwórcą i pomysłodawcą. W zeszłym
+roku nakładem wydawnictwa Lira ukazała się moja książka Smaki Lwowa, opowieść o mieście
+historycznym i współczesnym.
 
-+48604201109
+Mogę o sobie powiedzieć, że jestem bywalcem Ukrainy i po części znawcą, zwłaszcza jeśli chodzi o
+Lwów i Huculszczyznę.
 
-+34654110418
+Kontakt do mnie:
 
-ZDJĘCIA
-![This is an image](/img/Salob12-kopia.jpg)
-![This is an image](/img/zachod.jpg)
-![This is an image](/img/banany-kopia.jpg)
+allpress.piotr.Janczarek@gmail.com
+
+tel. +48 604 201 109
+
